@@ -1,0 +1,17 @@
+.form {
+  padding: 10% 10% 10% 10%;
+  align-items: center;
+}
+
+.box {
+  display: flex;
+  text-align: center;
+  width: 50%;
+  padding: 10px 50px 10px 50px;
+  margin: 10px 50px 10px 50px;
+  align-items: center;
+}
+
+.bt {
+  margin-left: 25%;
+}

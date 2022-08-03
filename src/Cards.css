@@ -1,0 +1,13 @@
+.card{
+    padding: 15px;
+    margin: 16px;
+    display: flex;
+    text-align:center;
+    float: left;
+}
+.des{
+font-weight: bold;
+}
+.btn{
+    width: fit-content;
+}

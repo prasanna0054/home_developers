@@ -1,0 +1,10 @@
+.list-group-flush{
+    display: flex;
+    text-align: center;
+    width: 50%;
+    padding: 10px 50px 10px 50px;
+    margin: 10px 50px 10px 50px;
+    align-items: center;
+  
+
+}

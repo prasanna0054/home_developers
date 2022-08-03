@@ -1,0 +1,67 @@
+.cart-items {
+  padding: 30px 10px 10px 10px;
+  margin: 30px 10px 10px 10px;
+}
+.cart-main {
+  margin: auto;
+  width: 91%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cart-img {
+  height: 100px;
+  width: 100px;
+  text-align: center;
+}
+
+.item-name {
+  padding-top: 10px;
+  line-height: 10px;
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.item-price {
+  height: 90%;
+  text-align: right;
+}
+.item-total {
+  padding-top: 25px;
+  font-size: 30px;
+  font-weight: 800;
+}
+.cancel-btn {
+  padding-top: 5px;
+  font-size: 14px;
+}
+.checkout-items {
+  float: right;
+  margin-right: 3%;
+  width: 30%;
+}
+.cart-total {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.cart-subtotal {
+  font-size: 23px;
+  font-weight: 700;
+}
+.cart-length-items {
+  padding: 1%;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 10px;
+}
+.cart-amount {
+  font-size: 35px;
+  font-weight: 900;
+}
+
+
+
+/* For designing Cart Page UI I have used a webpage tutorial as a reference "https://uxplanet.org/how-to-create-a-shopping-cart-ui-using-html-css-e5db3cd55aa0"   */
+
+/* Just the CSS part has been took as reference, used my skills to give the best UI possible for the cart page */
